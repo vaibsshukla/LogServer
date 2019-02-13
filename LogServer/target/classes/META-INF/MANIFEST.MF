@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: IfarmLogServer
+Implementation-Version: 0.1.0
+Built-By: Vaibhav Shukla
+Implementation-Vendor-Id: com.b3ds.ifarm.logserver
+Build-Jdk: 1.8.0_191
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/IfarmLogServer
+Created-By: Maven Integration for Eclipse
+
